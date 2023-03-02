@@ -1,4 +1,6 @@
---  Mandatory Project:
+-- Mavenmovies Database: The aim was to fetch the information from mavenmovies database using SQL queries. The various insights like particular movies actor, director, 
+number of movies they worked in, not acted in any movie, group by actor or director or movie, genre, year ect. 
+
 -- Q.1.  Write a SQL query to find the actors who were cast in the movie 'Annie Hall'. 
 -- Return actor first name, last name and role.
 use moviedb;
