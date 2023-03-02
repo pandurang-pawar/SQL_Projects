@@ -1,3 +1,5 @@
+Instagram Database: The aim was to reward the users using SQL queries who were active for the longest, to understand when to run ad-campaign, 
+figure out the day of the week the most users registered, target inactive users, average user posts, which hashtag to use, users who liked every single photo, and users who have never commented.
 use ig_clone;
 
 -- Q.1. Create an ER diagram or draw a schema for the given database.
