@@ -1,3 +1,6 @@
+Northwind Database: The aim was to calculate the average unit price for each customer, rank the average unit price, the very first quantity ever ordered, 
+cumulative average, and other aggregate functions in addition to the windows function.
+
 use northwind;
 select * from categories;
 select * from customers;
